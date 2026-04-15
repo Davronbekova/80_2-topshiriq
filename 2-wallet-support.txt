@@ -1,0 +1,1 @@
+Metamask va yana 2 ta qo'shimcha walletlar orqali wallet ulanish funksiyasini yozish.

@@ -1,0 +1,1 @@
+Foydalanuvchi input orqali kontraktga ma’lumot yuboradigan forma yaratish.

@@ -1,0 +1,23 @@
+{
+  "name": "davronbekova-dapp",
+  "version": "0.0.1",
+  "private": true,
+  "description": "React DApp with MetaMask, WalletConnect, and Coinbase Wallet support on Sepolia testnet.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build"
+  },
+  "dependencies": {
+    "@coinbase/wallet-sdk": "^3.0.1",
+    "@walletconnect/web3-provider": "^1.7.9",
+    "ethers": "^6.9.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}

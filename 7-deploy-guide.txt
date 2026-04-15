@@ -1,0 +1,1 @@
+Localhostda ishlayotgan DApp’ni testnetga ulash va GitHub Pages yoki Vercel orqali deploy qilish.
